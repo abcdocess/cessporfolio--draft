@@ -240,7 +240,7 @@ section {
 
  .main-container .image {
     width: 250px;
-    height: 210px;
+    height: 250px;
     border-radius: 100%;
     overflow: hidden;
     box-shadow: 0 0 50px #077b32;
@@ -262,7 +262,7 @@ section {
     }
 
     .main-container .content {
-        width: 90%;
+        width: 50%;
     }
 
     .content button {
